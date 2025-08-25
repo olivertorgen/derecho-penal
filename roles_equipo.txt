@@ -1,0 +1,13 @@
+Roles:
+Contenidistas:
+Buscador:torgen,Phantachith
+Escritor:torgen,phanthachit
+Corrector:torgen
+Orador/Presentador:
+Programadores
+Frontend: Luciano, Rindfleisch 
+Backend: Luciano, Rindfleisch 
+Desarrollador de chatbot
+Diseñador
+Diseñador UI (estética) Ana Rindfleisch 
+Diseñador UX (funcionalidad)
