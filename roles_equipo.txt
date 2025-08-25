@@ -3,7 +3,7 @@ Contenidistas:
 Buscador:torgen,Phantachith
 Escritor:torgen,phanthachit
 Corrector:torgen
-Orador/Presentador:
+Orador/Presentador:torgen
 Programadores
 Frontend: Luciano, Rindfleisch 
 Backend: Luciano, Rindfleisch 
